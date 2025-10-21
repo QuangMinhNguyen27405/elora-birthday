@@ -64,7 +64,7 @@ export default function HeroCarousel() {
         transition={{ duration: 1, delay: 0.5 }}
         className="absolute inset-0 flex items-center justify-center z-10">
         <h1
-          className="text-4xl md:text-5xl font-bold italic text-white text-center px-4"
+          className="text-2xl md:text-3xl font-bold italic text-white text-center px-4"
           style={{
             textShadow:
               "3px 3px 10px rgba(0, 0, 0, 0.7), 0 0 25px rgba(0, 0, 0, 0.5)",
