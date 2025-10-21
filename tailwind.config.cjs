@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       fontFamily: {
         "dancing-script": ['"Dancing Script"', "cursive"],
+        poppins: ['"Poppins"', "sans-serif"],
+        quicksand: ['"Quicksand"', "sans-serif"],
+        nunito: ['"Nunito"', "sans-serif"],
       },
       animation: {
         float: "float 3s ease-in-out infinite",
